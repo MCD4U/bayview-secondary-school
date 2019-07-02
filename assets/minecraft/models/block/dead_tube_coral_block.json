@@ -1,0 +1,6 @@
+{
+    "parent": "block/vending_machine",
+    "textures": {
+        "front": "block/vending_machine_0"
+    }
+}

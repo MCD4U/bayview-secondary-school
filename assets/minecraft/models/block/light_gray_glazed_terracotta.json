@@ -1,0 +1,7 @@
+{
+    "parent": "block/special",
+    "textures": {
+        "front": "block/iron_block",
+        "side": "block/quartz_block_bottom"
+    }
+}

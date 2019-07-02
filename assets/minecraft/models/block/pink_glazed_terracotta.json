@@ -1,0 +1,7 @@
+{
+    "parent": "block/special",
+    "textures": {
+        "front": "block/tv_5",
+        "side": "block/quartz_block_bottom"
+    }
+}

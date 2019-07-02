@@ -1,0 +1,7 @@
+{
+    "parent": "block/special",
+    "textures": {
+        "front": "block/red_wool",
+        "side": "block/quartz_block_bottom"
+    }
+}

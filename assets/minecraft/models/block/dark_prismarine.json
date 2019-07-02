@@ -1,0 +1,9 @@
+{
+    "parent": "block/bin",
+    "textures": {
+        "top": "block/organic_top",
+        "bottom": "block/organic_top",
+        "side": "block/organic_side",
+        "inside": "block/organic_inside"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/bin",
+    "textures": {
+        "top": "block/recycle_top",
+        "bottom": "block/recycle_top",
+        "side": "block/recycle_side",
+        "inside": "block/recycle_inside"
+    }
+}

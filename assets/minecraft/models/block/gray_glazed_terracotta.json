@@ -1,0 +1,7 @@
+{
+    "parent": "block/special",
+    "textures": {
+        "side": "block/vending_machine_side",
+        "front": "block/speaker"
+    }
+}
