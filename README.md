@@ -6,17 +6,9 @@ This is a resource pack for Minecraft version 1.14.3. It is intended to be used 
 
 [Just read this link.](https://minecraft.gamepedia.com/Tutorials/Loading_a_resource_pack)
 
-1. Click "Clone or download" and then click "Download ZIP"
+1. Go to [Releases](https://github.com/MCD4U/bayview-secondary-school/releases) and download the **latest** `Bayview.Secondary.School.zip` file
 
-![](https://cdn.discordapp.com/attachments/269226485951234068/594920265264267264/unknown.png)
-
-2. Extract the ZIP file
-
-3. Place the **inner** `bayview-secondary-school-master` folder into your resource packs folder
-
-4. Your resource packs folder should look like this:
-
-> `resourcespacks\bayview-secondary-school-master\assets ...`
+2. Place the zip file into your resource packs folder
 
 ## Features
 
