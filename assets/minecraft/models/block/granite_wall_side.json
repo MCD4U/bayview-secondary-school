@@ -1,1 +1,22 @@
-{}
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/pipe"
+	},
+	"elements": [
+		{
+			"name": "wall",
+			"from": [5, 5, 0],
+			"to": [11, 11, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+			"faces": {
+				"north": {"uv": [5, 0, 11, 6], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [8, 0, 16, 6], "texture": "#1"},
+				"south": {"uv": [5, 0, 11, 6], "texture": "#1"},
+				"west": {"uv": [0, 0, 8, 6], "texture": "#1"},
+				"up": {"uv": [5, 0, 11, 8], "texture": "#1"},
+				"down": {"uv": [5, 8, 11, 16], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}

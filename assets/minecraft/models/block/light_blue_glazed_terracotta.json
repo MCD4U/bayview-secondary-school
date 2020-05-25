@@ -2,6 +2,6 @@
     "parent": "block/special",
     "textures": {
         "front": "block/light_blue_wool",
-        "side": "block/quartz_block_bottom"
+        "side": "block/polished_diorite"
     }
 }

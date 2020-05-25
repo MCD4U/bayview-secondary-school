@@ -1,7 +1,7 @@
 {
     "parent": "block/special",
     "textures": {
-        "front": "block/tv_3",
-        "side": "block/quartz_block_bottom"
+        "front": "block/clock_block",
+        "side": "block/polished_diorite"
     }
 }

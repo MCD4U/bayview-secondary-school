@@ -1,8 +1,8 @@
 {
     "textures": {
-        "texture": "block/whiteboard",
+        "texture": "block/whiteboard_frame",
         "front": "block/whiteboard_top_left",
-        "particle": "block/whiteboard",
+        "particle": "block/whiteboard_frame",
         "blank": "block/blank"
     },
     "elements": [

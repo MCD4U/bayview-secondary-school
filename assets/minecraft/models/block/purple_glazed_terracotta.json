@@ -1,0 +1,7 @@
+{
+    "parent": "block/special",
+    "textures": {
+        "front": "block/fire_hose",
+        "side": "block/polished_diorite"
+    }
+}

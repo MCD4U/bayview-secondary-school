@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/thin_block",
+	"textures": {
+		"0": "block/water",
+		"particle": "block/water"
+	},
+	"elements": [
+		{
+			"from": [1, -4, 1],
+			"to": [15, -3, 15],
+			"faces": {
+				"north": {"uv": [1, 15, 15, 16], "texture": "#missing"},
+				"east": {"uv": [1, 15, 15, 16], "texture": "#missing"},
+				"south": {"uv": [1, 15, 15, 16], "texture": "#missing"},
+				"west": {"uv": [1, 15, 15, 16], "texture": "#missing"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#0"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#missing", "cullface": "down"}
+			}
+		}
+	]
+}
