@@ -1,0 +1,140 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/barrier"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "block/computer" },
+        { "predicate": { "custom_model_data": 2 }, "model": "block/imac" },
+        { "predicate": { "custom_model_data": 3 }, "model": "block/urinal" },
+        {
+            "predicate": { "custom_model_data": 4 },
+            "model": "block/basketball_net"
+        },
+        {
+            "predicate": { "custom_model_data": 5 },
+            "model": "block/tv"
+        },
+        {
+            "predicate": { "custom_model_data": 6 },
+            "model": "block/microwave"
+        },
+        {
+            "predicate": { "custom_model_data": 7 },
+            "model": "block/aed"
+        },
+        {
+            "predicate": { "custom_model_data": 8 },
+            "model": "block/printer"
+        },
+        {
+            "predicate": { "custom_model_data": 9 },
+            "model": "block/water_fountain"
+        },
+        {
+            "predicate": { "custom_model_data": 10 },
+            "model": "block/slippery_sign"
+        },
+        {
+            "predicate": { "custom_model_data": 11 },
+            "model": "block/test_tube_rack"
+        },
+        {
+            "predicate": { "custom_model_data": 12 },
+            "model": "block/moose_painting"
+        },
+        {
+            "predicate": { "custom_model_data": 13 },
+            "model": "block/hand_dryer"
+        },
+        {
+            "predicate": { "custom_model_data": 14 },
+            "model": "block/laptop_cart"
+        },
+        {
+            "predicate": { "custom_model_data": 15 },
+            "model": "block/gray_corkboard"
+        },
+        {
+            "predicate": { "custom_model_data": 16 },
+            "model": "block/projector_screen_left"
+        },
+        {
+            "predicate": { "custom_model_data": 17 },
+            "model": "block/projector_screen"
+        },
+        {
+            "predicate": { "custom_model_data": 18 },
+            "model": "block/projector_screen_right"
+        },
+        {
+            "predicate": { "custom_model_data": 19 },
+            "model": "block/shower_head"
+        },
+        {
+            "predicate": { "custom_model_data": 20 },
+            "model": "block/studio_light"
+        },
+        {
+            "predicate": { "custom_model_data": 21 },
+            "model": "block/music_1"
+        },
+        {
+            "predicate": { "custom_model_data": 22 },
+            "model": "block/music_2"
+        },
+        {
+            "predicate": { "custom_model_data": 23 },
+            "model": "block/music_3"
+        },
+        {
+            "predicate": { "custom_model_data": 24 },
+            "model": "block/cp24"
+        },
+        {
+            "predicate": { "custom_model_data": 25 },
+            "model": "block/car_1"
+        },
+        {
+            "predicate": { "custom_model_data": 26 },
+            "model": "block/car_2"
+        },
+        {
+            "predicate": { "custom_model_data": 27 },
+            "model": "block/black_corkboard"
+        },
+        {
+            "predicate": { "custom_model_data": 28 },
+            "model": "block/red_corkboard"
+        },
+        {
+            "predicate": { "custom_model_data": 29 },
+            "model": "block/blue_corkboard"
+        },
+        {
+            "predicate": { "custom_model_data": 30 },
+            "model": "block/parking_light"
+        },
+        {
+            "predicate": { "custom_model_data": 31 },
+            "model": "block/street_light"
+        },
+        {
+            "predicate": { "custom_model_data": 32 },
+            "model": "block/fob"
+        },
+        {
+            "predicate": { "custom_model_data": 33 },
+            "model": "block/1"
+        },
+        {
+            "predicate": { "custom_model_data": 34 },
+            "model": "block/0"
+        },
+        {
+            "predicate": { "custom_model_data": 35 },
+            "model": "block/7"
+        }
+    ]
+}

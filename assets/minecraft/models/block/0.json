@@ -1,0 +1,6 @@
+{
+    "parent": "block/number",
+    "textures": {
+        "texture": "block/0"
+    }
+}

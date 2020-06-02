@@ -22,13 +22,13 @@ The ominous prison wall that brings back haunting memories.
 
 ### Floor
 
-![](https://cdn.discordapp.com/attachments/269226485951234068/714335074048409640/floor.png)
+![](https://cdn.discordapp.com/attachments/269226485951234068/715994509300727898/floor.png)
 
 The disgusting floor that you never want to set foot on again.
 
 ### Floor 2
 
-![](https://cdn.discordapp.com/attachments/269226485951234068/714335332811931658/floor_2.png)
+![](https://cdn.discordapp.com/attachments/269226485951234068/715994677731393677/floor_2.png)
 
 Another floor texture that is found in the front lobby.
 
@@ -38,15 +38,15 @@ Another floor texture that is found in the front lobby.
 
 Another floor texture that is commonly found in some classrooms.
 
-As shown below, this block has borders which makes it look like tiles.
-
-![](https://cdn.discordapp.com/attachments/269226485951234068/714336009055371274/tile.png)
-
 ### Light
 
 ![](https://cdn.discordapp.com/attachments/269226485951234068/714333640993144872/light.png)
 
 This block emulates a ceiling light found in many places around the school.
+
+### Wall Light
+
+They are light blocks (glowstones) that look like [White Walls](#white-wall). Useful when [Phantom Lights](#phantom-light) aren't suitable and there are no other good options to hide lighting.
 
 ### Phantom Light
 
@@ -54,13 +54,9 @@ Phantom lights are invisible light sources. They are used when the normal lights
 
 ### Chairs
 
-![Blue and Pink Chair](https://cdn.discordapp.com/attachments/269226485951234068/594946151497728014/Chairs.png)
+![](https://cdn.discordapp.com/attachments/269226485951234068/715999941679644702/chairs.png)
 
-These are the chairs that are commonly found in classrooms, the cafeteria etc.
-
-![Beach Chair](https://cdn.discordapp.com/attachments/269226485951234068/594946757964726451/Beach_Chair.png)
-
-These can represent red chairs, or those big red beach chairs that are found in the cafeteria.
+From left to right: blue and pink chairs that are commonly found around the school, red chairs or those big red beach chairs that are found in the cafeteria.
 
 ### Whiteboard
 
@@ -72,7 +68,7 @@ A whiteboard is made up of different opened trapdoors. The trapdoors are Whitebo
 
 ### Corkboard
 
-A corkboard is a re-textured painting (`alban`); as a result it actually extrudes from the wall. If an [invisible sign](#invisible-sign) is placed before the painting is placed, then you can have text show up on the corkboard as seen in the following image:
+A corkboard is a re-textured painting (`alban`); as a result it actually extrudes from the wall. If a sign is placed before the painting is placed, then you can have text show up on the corkboard as seen in the following image:
 
 ![](https://cdn.discordapp.com/attachments/269226485951234068/714338083880828928/corkboard.png)
 
@@ -80,7 +76,7 @@ A corkboard is a re-textured painting (`alban`); as a result it actually extrude
 
 ### Toilets
 
-![](https://cdn.discordapp.com/attachments/269226485951234068/594950701369524272/Toilets.png)
+![](https://cdn.discordapp.com/attachments/269226485951234068/716114891672387655/toilets.png)
 
 There are 3 variations (from left to right): Toilet, Toilet (Water), Toilet (Poop). The toilets have the [White Wall](#white-wall) texture on its back and the Floor texture under it.
 

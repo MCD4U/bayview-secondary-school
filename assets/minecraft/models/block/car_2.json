@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/double_custom_block",
+	"textures": {
+		"0": "block/car",
+		"particle": "block/car"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 16],
+			"to": [16, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [23, 8, 24]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#missing"},
+				"south": {"uv": [0, 0, 13, 4], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#missing"},
+				"up": {"uv": [0, 0, 13, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 13, 0], "texture": "#missing"}
+			}
+		}
+	]
+}

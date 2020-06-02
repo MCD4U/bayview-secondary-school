@@ -30,5 +30,107 @@
                 "name": "silence"
             }
         ]
+    },
+    "entity.wandering_trader.ambient": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "fob/say1"
+            },
+            {
+                "name": "fob/say2"
+            },
+            {
+                "name": "fob/say3"
+            },
+            {
+                "name": "fob/say4"
+            },
+            {
+                "name": "fob/say5"
+            },
+            {
+                "name": "fob/say6"
+            },
+            {
+                "name": "fob/say7"
+            }
+        ]
+    },
+    "entity.wandering_trader.hurt": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "fob/hurt1"
+            }
+        ]
+    },
+    "entity.villager.ambient": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "male/say1"
+            },
+            {
+                "name": "male/say2"
+            },
+            {
+                "name": "male/say3"
+            },
+            {
+                "name": "male/say4"
+            },
+            {
+                "name": "male/say5"
+            },
+            {
+                "name": "male/say6"
+            },
+            {
+                "name": "male/say7"
+            }
+        ]
+    },
+    "entity.villager.hurt": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "male/hurt1"
+            },
+            {
+                "name": "male/hurt2"
+            }
+        ]
+    },
+    "entity.evoker.ambient": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "female/say1"
+            },
+            {
+                "name": "female/say2"
+            },
+            {
+                "name": "female/say3"
+            },
+            {
+                "name": "female/say4"
+            },
+            {
+                "name": "female/say5"
+            }
+        ]
+    },
+    "entity.evoker.hurt": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "female/hurt1"
+            },
+            {
+                "name": "female/hurt2"
+            }
+        ]
     }
 }

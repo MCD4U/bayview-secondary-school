@@ -1,0 +1,6 @@
+{
+    "parent": "block/mob",
+    "textures": {
+        "texture": "entity/people/fob"
+    }
+}

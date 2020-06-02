@@ -1,0 +1,28 @@
+give @p written_book{
+    title:"",author:"",pages:[
+        '[
+            {"text":"Bayview Secondary School\\n","color":"red"},
+            {"text":"Home\\n","color":"black","clickEvent":{"action":"run_command","value":"/tp @p 1035.5 71 742 -90 0"}},
+            {"text":"Front Entrance\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 1000 69 769 90 0"}},
+            {"text":"Front Foyer\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 968 69 769 90 0"}},
+            {"text":"Cafeteria\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 971 69 794 -90 0"}},
+            {"text":"Library\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 971 69 876 -65 0"}},
+            {"text":"Large Gym\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 933 73 809 -180 0"}},
+            {"text":"Small Gym\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 918 69 875 0 0"}},
+            {"text":"Large Gym Hallway\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 893 69 824 -90 0"}},
+            {"text":"Art Wing\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 872 62 861 -180 0"}},
+            {"text":"Courtyard\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 915 69 850 -90 0"}},
+            {"text":"Small Courtyard\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 932 69 751 180 0"}},
+            {"text":"Geography Wing\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 964 69 723 90 0"}}
+        ]',
+        '[
+            {"text":"Music Hallway\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 892 62 767 90 0"}},
+            {"text":"Music Room\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 874 62 728 90 0"}},
+            {"text":"Garage\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 872 62 813 45 0"}},
+            {"text":"Small Hallway\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 885 69 723 90 0"}},
+            {"text":"Science Wing\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 790 69 723 90 0"}},
+            {"text":"Science Basement\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 768 69 727 90 0"}},
+            {"text":"Starbucks Entrance\\n","color": "black","clickEvent":{"action":"run_command","value":"/tp @p 807 67 692 0 0"}}
+        ]'
+    ]
+} 1

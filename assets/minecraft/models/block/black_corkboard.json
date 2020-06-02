@@ -1,0 +1,6 @@
+{
+    "parent": "block/corkboard",
+    "textures": {
+        "texture": "block/black_concrete"
+    }
+}

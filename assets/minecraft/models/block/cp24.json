@@ -1,0 +1,6 @@
+{
+    "parent": "block/tv",
+    "textures": {
+        "texture": "block/cp24"
+    }
+}

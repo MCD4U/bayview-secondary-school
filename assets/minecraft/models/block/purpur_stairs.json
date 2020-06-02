@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/white_concrete",
-		"2": "block/stone",
+		"2": "block/metal",
 		"3": "block/toilet_seat",
 		"5": "block/polished_diorite",
 		"6": "block/podzol_top",
-		"7": "block/sandstone",
+		"7": "block/sandstone_top",
 		"particle": "block/toilet_seat"
 	},
 	"elements": [
